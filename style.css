@@ -1,5 +1,5 @@
 nav{
-		font-size: 18px;
+		font-size: 20px;
 }
 
 img{
@@ -28,7 +28,7 @@ a:link{
 a:hover{
 		color:red;
 		background-color:gold;
-		font-size:26px;
+		font-size:30px;
 }
 
 .animepic{
