@@ -1,5 +1,5 @@
 nav{
-		font-size: 26px;
+		font-size: 20px;
 }
 
 img{
@@ -28,6 +28,6 @@ a:link{
 a:hover{
 		color:red;
 		background-color:gold;
-		font-size:20px;
+		font-size:26px;
 }
 
