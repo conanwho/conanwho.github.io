@@ -4,6 +4,7 @@
 			Magic 8 Ball
 		</title>
 		<link rel="stylesheet" type="text/css" href="style.css">
+		<script src="script.js"></script>
 	</head>
 	<body>
 		<div>
@@ -21,8 +22,8 @@
 				</a>
 			</nav>
 			<section>
-				<img src="magic8ballfront.jpg" />
-				<p>
+				<img id="magic8ball" src="magic8ballfront.jpg" onclick="shakeMagic8Ball();"/>
+				<p id="results">
 					click the magic 8 ball to tell your fortune.
 				</p>
 			</section>
