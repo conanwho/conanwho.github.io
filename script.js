@@ -6,4 +6,7 @@ function shakeMagic8Ball(){
 	//grab image by id 
 	document.getElementById("magic8ball").src="magic8ballback.jpg";
 	
+	//grab the results
+	document.getElementById("results").innerHTML="it's decidedly so!";
+	
 }
