@@ -18,7 +18,8 @@ div{
 		margin:25px;
 		background-color:purple;
 		padding:15px;
-}
+		border-radius:30px;
+		text-align:center;
 
 a:link{
 		color:red;
