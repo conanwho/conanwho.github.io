@@ -20,6 +20,8 @@ function shakeMagic8Ball(){
 	document.getElementById("magic8ball").src="magic8ballback.jpg";
 	
 	//grab the results
-	document.getElementById("results").innerHTML="it's decidedly so!";
+	document.getElementById("results").innerHTML=list[5];
 	
-}	alert(list[5]);
+	//alert(list[5]);
+	
+}
