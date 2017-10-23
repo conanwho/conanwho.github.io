@@ -1,5 +1,5 @@
 //create a list of strings, to hold 8 ball responses
-var list = {"Yes",
+var list = ["Yes",
 			"No",
 			"It's decidedly so",
 			"Outlook not so good",
@@ -8,7 +8,7 @@ var list = {"Yes",
 			"Don't count on it.",
 			"My reply is no",
 			"Signs point to yes",
-			"Reply hazy, try again"};
+			"Reply hazy, try again"];
 
 
 //this function responds with a fortune
