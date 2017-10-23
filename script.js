@@ -1,3 +1,16 @@
+//create a list of strings, to hold 8 ball responses
+var list = {"Yes",
+			"No",
+			"It's decidedly so",
+			"Outlook not so good",
+			"Concentrate and try again",
+			"Try again",
+			"Don't count on it.",
+			"My reply is no",
+			"Signs point to yes",
+			"Reply hazy, try again"};
+
+
 //this function responds with a fortune
 //when click the magic 8 ball image
 function shakeMagic8Ball(){
@@ -9,4 +22,4 @@ function shakeMagic8Ball(){
 	//grab the results
 	document.getElementById("results").innerHTML="it's decidedly so!";
 	
-}
+}	alert(list[5]);
