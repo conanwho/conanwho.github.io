@@ -3,10 +3,10 @@
 function randomCircle(){
 	
 	//randomly get top positions
-	
+	document.getElementById("circle").style.top = "100px";
 	
 	//randomly get left positions
-	
+	document.getElementById("circle").style.left = "100px";
 	
 	//upadate positions of circle
 	
