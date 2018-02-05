@@ -1,0 +1,37 @@
+<html>
+	<head>
+		<title>Test Array</title>
+		
+		<script>
+			//initialize array
+			var weapons = ["MasterSword", "DualSwords", "CresentRose", "Scythe"];
+			
+			//prompt size of array
+			alert("Number of elements: " + weapons.length);
+			
+			//prompt old value of index 0
+			alert("element at index 0 was: " + weapons[0]);
+			
+			//set element at index 0 to 5 instead
+			weapons[0] = "BowOfLight";
+			
+			//prompt the setting in previous line
+			alert("element at index 0 is now: " + weapons[0]);
+			
+			//push an element
+			weapons.push("RoyalSword");
+			
+			//prompt the new element $
+			alert("third favorite weapon:" + weapons[2]);
+			//go through each element using a for-loop and prompt each element
+			for(var index=0; index<weapons.length;index++){
+				alert(weapons[index]);
+			}
+			
+		</script>
+		
+	</head>
+	<body>
+		Test Array
+	</body>
+</html>
