@@ -1,0 +1,4 @@
+var x=5       integer, short, long
+var cat=3.22  double 
+var y='3'     character
+var z="num!"  string
