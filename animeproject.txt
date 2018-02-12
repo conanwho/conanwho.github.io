@@ -1,0 +1,16 @@
+
+
+computer science project
+
+Kissanime website
+
+1. anime page with links
+home page
+list page
+sub and dub
+page layout
+hover= anime cover
+
+
+2. anime video page appearance
+
