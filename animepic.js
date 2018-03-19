@@ -3,5 +3,5 @@ function transformLink(){
 }
 
 function revertLink(){
-	document.getElementById("test").innerHTML="Click me";
+	document.getElementById("test").innerHTML="Fate/Zero(Dub)";
 }
